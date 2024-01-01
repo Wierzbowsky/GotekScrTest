@@ -48,7 +48,7 @@ Operation and test videos
 
 You can see the videos of the screen testing on YouTube:
 
- - https://www.youtube.com/watch?v=
+ - https://youtu.be/1x14cKezyLI
 
 
 IMPORTANT!
